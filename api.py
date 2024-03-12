@@ -11,7 +11,7 @@ sid = SentimentIntensityAnalyzer()
 #constants
 SECRET_KEY = 'greeenprem'
 outj=[]
-times=2
+times=1
 query="cybertruck"
 ex_resp= {}
 url = "https://twitter-api45.p.rapidapi.com/search.php"
